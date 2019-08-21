@@ -314,7 +314,7 @@ font:
   headings:
     external: true
     family:
-    size:
+    size: 
 
   # Font settings for posts.
   # Fallback to `global` font settings.
@@ -327,7 +327,7 @@ font:
   logo:
     external: true
     family:
-    size:
+    size: 36
 
   # Font settings for <code> and code blocks.
   codes:
